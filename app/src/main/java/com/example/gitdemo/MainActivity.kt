@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
     private fun add(){
 
     }
+
+    private fun remove(){
+
+    }
 }
