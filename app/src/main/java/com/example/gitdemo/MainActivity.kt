@@ -11,4 +11,12 @@ class MainActivity : AppCompatActivity() {
      private fun hhh(){
 
      }
+
+    private fun add(){
+
+    }
+
+    private fun remove(){
+
+    }
 }
