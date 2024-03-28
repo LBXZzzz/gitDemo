@@ -18,6 +18,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun remove(){
-
+        val oojdfkv=0
     }
 }
