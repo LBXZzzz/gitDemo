@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
 
     private fun add(){
-
+        val oo=0
     }
 
     private fun remove(){
